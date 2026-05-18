@@ -16,8 +16,8 @@ Deduplicates automatically. Filters out irrelevant news using a strict keyword l
 
 ## Requirements
 - Node.js installed
-- The main bot's `data/bot.db` must exist (the scraper will create it if missing)
-- Run from inside the `Project-NewsMan-main` folder (this folder should be placed as a subfolder there)
+- The main bot's `data/bot.db` must exist 
+- Run from inside the `Project-NewsMan-main` folder 
 
 ## How to run
 ```bash
